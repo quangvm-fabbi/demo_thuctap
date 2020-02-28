@@ -1,0 +1,14 @@
+{
+  "name": "admin_bower",
+  "homepage": "https://github.com/QuangVu11/admin_bower",
+  "_release": "11e678c4bf",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "11e678c4bfdea700b6dcb8a67a7578b4cba3de0b"
+  },
+  "_source": "https://github.com/QuangVu11/admin_bower.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/QuangVu11/admin_bower.git",
+  "_direct": true
+}
